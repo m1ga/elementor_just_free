@@ -1,0 +1,30 @@
+#elementor-panel-category-pro-elements {
+  /* pro elements */
+  display: none;
+}
+
+#elementor-panel-get-pro-elements {
+  /* go pro element at the end of the elements tab */
+  display: none;
+}
+
+#elementor-panel-elements-navigation div[data-tab="global"]{
+  /* global tab */
+  display: none;
+}
+
+#elementor-panel-global {
+  /* global tab content */
+  display: none;
+}
+
+.elementor-panel-menu-items .elementor-panel-menu-item.elementor-panel-menu-item-site-editor {
+  /* site editor button */
+  display: none;
+}
+
+
+.elementor-template-library-template.elementor-template-library-pro-template {
+  /* pro templates */
+  display: none;
+}
