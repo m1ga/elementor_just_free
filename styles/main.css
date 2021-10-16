@@ -8,7 +8,7 @@
   display: none;
 }
 
-#elementor-panel-elements-navigation div[data-tab="global"]{
+#elementor-panel-elements-navigation div[data-tab="global"] {
   /* global tab */
   display: none;
 }
@@ -23,8 +23,12 @@
   display: none;
 }
 
-
 .elementor-template-library-template.elementor-template-library-pro-template {
   /* pro templates */
+  display: none;
+}
+
+a.elementor-plugins-gopro {
+  /* go pro link in plugins page */
   display: none;
 }
