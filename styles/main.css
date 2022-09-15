@@ -37,3 +37,8 @@ a.elementor-plugins-gopro {
   /* right click menu*/
   display: none;
 }
+
+.elementor-control-custom_logo_promotion {
+  /* fiverr ad in site-settings */
+  display: none;
+}

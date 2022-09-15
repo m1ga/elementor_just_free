@@ -7,15 +7,15 @@ Just show free stuff in the Elementor:
 
 This plug-in will remove/hide pro features so the interface will be a bit cleaner.
 
-<b>Keep in mind:</b> Remove the plug-in if you want to use [Elementor Pro](https://trk.elementor.com/26724)!
+<b>Keep in mind:</b> Remove the plug-in if you want to use Elementor Pro
 
 ## Requirements
 
-* [Elementor](https://trk.elementor.com/26724)
+* Elementor
 
 ## Install
 
-* Install [Elementor](https://trk.elementor.com/26724)
+* Install Elementor
 * Download and install this plug-in (https://github.com/m1ga/elementor_just_free/releases)
 
 
