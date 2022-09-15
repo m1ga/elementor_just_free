@@ -19,6 +19,10 @@ This plug-in will remove/hide pro features so the interface will be a bit cleane
 * Download and install this plug-in (https://github.com/m1ga/elementor_just_free/releases)
 
 
+## Other plug-ins
+
+Check out some of my other Elementor plug-ins at: https://profiles.wordpress.org/migaweb/#content-plugins
+
 ## Author
 
 * Michael Gangolf (<a href="https://github.com/m1ga">@MichaelGangolf</a> / <a href="https://www.migaweb.de">Web</a>)
