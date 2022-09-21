@@ -3,7 +3,7 @@
 * Plugin Name: Elementor - just free
 * Plugin URI: https://www.migaweb.de/
 * Description: Just show free stuff in Elementor
-* Version: 1.1
+* Version: 1.2
 * Author: Michael Gangolf
 * Author URI: https://www.migaweb.de/
 **/

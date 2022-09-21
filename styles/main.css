@@ -42,3 +42,28 @@ a.elementor-plugins-gopro {
   /* fiverr ad in site-settings */
   display: none;
 }
+
+.elementor-panel-menu-item.elementor-panel-menu-item-notes {
+  /* "notes" menu entry */
+  display: none !important;
+}
+
+
+div[data-collapse_id="section_custom_css_pro"],
+div[data-collapse_id="section_custom_css_pro"] + div,
+.elementor-control-custom_css_pro,
+.elementor-control-section_custom_css_pro {
+  /* custom css */
+  display: none;
+}
+
+.elementor-control-section_custom_attributes_pro {
+  /* attributes */
+  display: none;
+}
+
+
+.elementor-control-dynamic-switcher {
+  /* dynamic attributes */
+  display: none !important;
+}
